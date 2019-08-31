@@ -1,0 +1,4 @@
+[23-May-2019 07:10:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/gfiahtrm/wisekreator.com/login_sys/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gfiahtrm/wisekreator.com/login_sys/app/User.php on line 9
