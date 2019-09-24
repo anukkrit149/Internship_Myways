@@ -1,5 +1,5 @@
-# Internship_Myways
-
+# Internship Myways
+Internship Assignment given by Myways Pvt Ltd
 
 ## Laravel Project
 
