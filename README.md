@@ -2,6 +2,7 @@
 Internship Assignment given by Myways Pvt Ltd
 
 ## Laravel Project
+A MVC framework for PHP,which is highly scalable.
 
 
 ### Functionality
